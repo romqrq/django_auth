@@ -1,0 +1,3 @@
+[submodule "django_autho"]
+	path = django_autho
+	url = https://github.com/NielMc/django_auth.git
